@@ -30,6 +30,7 @@
     <meta name="description"
         content="Cari link slot gacor terbaru dengan RTP live akurat? LANDAKTOTO hadir dengan game Pragmatic paling hot, server stabil anti lemot, dan peluang jackpot besar yang siap menemani permainan Anda kapan saja." />
                  <meta name="keywords" content="LANDAKTOTO , slot gacor, slot gacor 2026, slot pragmatic, slot maxwin, slot88, slot anti rungkad, situs gacor, slot 4d">
+                 <meta name="google-site-verification" content="o-FpgIPO01LGqnknB4IQbRDaznxzNYFvTYAxepT5H2A" />
     <meta property="og:site_name" content="LANDAKTOTO" />
     <meta property="og:url" content="https://sumbangan.utem.edu.my/" />
     <meta property="og:title"
