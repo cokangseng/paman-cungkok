@@ -136,7 +136,7 @@
 
     <meta name="theme-color" content="rgb(0, 255, 242)" />
 
-    <link rel="canonical" href="https://molpharma.pl/" />
+    <link rel="canonical" href="https://savbihar.ac.in/" />
     <link rel="amphtml" href="https://paman-cungkok.pages.dev/molpharma.pl/amp" />
     <link
       rel="alternate"
@@ -168,10 +168,10 @@
         },
         "sku": "JD65H186",
         "mpn": "TC658A49",
-        "url": "https://molpharma.pl/",
+        "url": "https://savbihar.ac.in/",
         "offers": {
           "@type": "Offer",
-          "url": "https://molpharma.pl/",
+          "url": "https://savbihar.ac.in/",
           "priceCurrency": "USD",
           "price": "0.00",
           "priceValidUntil": "2025-12-31",
@@ -225,49 +225,49 @@
             "@type": "ListItem",
             "position": 1,
             "name": "TOGEL HONGKONG",
-            "item": "https://molpharma.pl/"
+            "item": "https://savbihar.ac.in/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "DATA HK",
-            "item": "https://molpharma.pl/"
+            "item": "https://savbihar.ac.in/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "KELUARAN HK",
-            "item": "https://molpharma.pl/"
+            "item": "https://savbihar.ac.in/"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "BANDAR TOGEL",
-            "item": "https://molpharma.pl/"
+            "item": "https://savbihar.ac.in/"
           },
           {
             "@type": "ListItem",
             "position": 5,
             "name": "BANDAR TOGEL HONGKONG",
-            "item": "https://molpharma.pl/"
+            "item": "https://savbihar.ac.in/"
           },
           {
             "@type": "ListItem",
             "position": 6,
             "name": "TOGEL HONGKONG TERPERCAYA",
-            "item": "https://molpharma.pl/"
+            "item": "https://savbihar.ac.in/"
           },
           {
             "@type": "ListItem",
             "position": 7,
             "name": "DATA KELUARAN HK",
-            "item": "https://molpharma.pl/"
+            "item": "https://savbihar.ac.in/"
           },
           {
             "@type": "ListItem",
             "position": 8,
             "name": "LANDAKTOTO - Bandar Toto Macau Resmi dengan Pasaran Togel 4D Terlengkap 2026",
-            "item": "https://molpharma.pl/"
+            "item": "https://savbihar.ac.in/"
           }
         ]
       }
@@ -429,7 +429,7 @@
         "@context": "https://schema.org",
         "@type": "Organization",
         "name": "TOGEL HONGKONG",
-        "url": "https://molpharma.pl/",
+        "url": "https://savbihar.ac.in/",
         "logo": "https://landaktoto.dataklmsad903.site/images/setting-logo/1/SqPt4TYy6QGzXvR3.webp",
         "sameAs": [
           "https://www.facebook.com/LANDAKTOTO",
@@ -467,7 +467,7 @@
       property="og:image"
       content="https://paman-cungkok.pages.dev/Landaktoto/resmi.png"
     />
-    <meta property="og:url" content="https://molpharma.pl/" />
+    <meta property="og:url" content="https://savbihar.ac.in/" />
     <meta property="og:type" content="website" />
 
     <!-- Twitter Card -->
@@ -489,7 +489,7 @@
       content="LANDAKTOTO - Bandar Toto Macau Resmi dengan Pasaran Togel 4D Terlengkap 2026"
     />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://molpharma.pl/" />
+    <meta property="og:url" content="https://savbihar.ac.in/" />
     <meta
       property="og:image"
       content="https://paman-cungkok.pages.dev/Landaktoto/resmi.png"
@@ -1288,7 +1288,7 @@
       <div class="page__off-canvas--left overflow" bis_skin_checked="1">
         <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
           <div class="off-canvas-left__top" bis_skin_checked="1">
-            <a href="https://molpharma.pl/">Envato Market</a>
+            <a href="https://savbihar.ac.in/">Envato Market</a>
           </div>
 
           <div
@@ -1303,7 +1303,7 @@
               class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest"
               data-view="dropdown"
               data-dropdown-target=".off-canvas-left__sites"
-              href="https://molpharma.pl/"
+              href="https://savbihar.ac.in/"
             ></a>
           </div>
 
@@ -1314,42 +1314,42 @@
           >
             <a
               class="off-canvas-left__site"
-              href="hhttps://molpharma.pl/"
+              href="hhttps://savbihar.ac.in/"
             >
               <span class="off-canvas-left__site-title"> Code </span>
               <i class="e-icon -icon-right-open"></i>
             </a>
             <a
               class="off-canvas-left__site"
-              href="https://molpharma.pl/"
+              href="https://savbihar.ac.in/"
             >
               <span class="off-canvas-left__site-title"> Video </span>
               <i class="e-icon -icon-right-open"></i>
             </a>
             <a
               class="off-canvas-left__site"
-              href="https://molpharma.pl/"
+              href="https://savbihar.ac.in/"
             >
               <span class="off-canvas-left__site-title"> Audio </span>
               <i class="e-icon -icon-right-open"></i>
             </a>
             <a
               class="off-canvas-left__site"
-              href="https://molpharma.pl/"
+              href="https://savbihar.ac.in/"
             >
               <span class="off-canvas-left__site-title"> Graphics </span>
               <i class="e-icon -icon-right-open"></i>
             </a>
             <a
               class="off-canvas-left__site"
-              href="https://molpharma.pl/"
+              href="https://savbihar.ac.in/"
             >
               <span class="off-canvas-left__site-title"> Photos </span>
               <i class="e-icon -icon-right-open"></i>
             </a>
             <a
               class="off-canvas-left__site"
-              href="https://molpharma.pl/"
+              href="https://savbihar.ac.in/"
             >
               <span class="off-canvas-left__site-title"> 3D Files </span>
               <i class="e-icon -icon-right-open"></i>
@@ -1359,7 +1359,7 @@
           <div class="off-canvas-left__search" bis_skin_checked="1">
             <form
               id="search"
-              action="https://molpharma.pl/"
+              action="https://savbihar.ac.in/"
               accept-charset="UTF-8"
               method="get"
             >
@@ -1388,7 +1388,7 @@
                 class="off-canvas-category-link"
                 data-view="dropdown"
                 data-dropdown-target="#off-canvas-all-items"
-                href="https://molpharma.pl/"
+                href="https://savbihar.ac.in/"
               >
                 All Items
               </a>
@@ -1396,56 +1396,56 @@
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Popular Files</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Featured Files</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Top New Files</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Follow Feed</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Top Authors</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Top New Authors</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Public Collections</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >View All Categories</a
                   >
                 </li>
@@ -1456,7 +1456,7 @@
                 class="off-canvas-category-link"
                 data-view="dropdown"
                 data-dropdown-target="#off-canvas-wordpress"
-                href="https://molpharma.pl/"
+                href="https://savbihar.ac.in/"
               >
                 WordPress
               </a>
@@ -1464,133 +1464,133 @@
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Show all WordPress</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Popular Items</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Blog / Magazine</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >BuddyPress</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Corporate</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Creative</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Directory &amp; Listings</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >eCommerce</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Education</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Elementor</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Entertainment</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Mobile</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Nonprofit</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Real Estate</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Retail</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Technology</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Wedding</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Miscellaneous</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >WordPress Plugins</a
                   >
                 </li>
@@ -1601,7 +1601,7 @@
                 class="off-canvas-category-link"
                 data-view="dropdown"
                 data-dropdown-target="#off-canvas-elementor"
-                href="https://molpharma.pl/"
+                href="https://savbihar.ac.in/"
               >
                 Elementor
               </a>
@@ -1609,21 +1609,21 @@
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Template Kits</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Plugins</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Themes</a
                   >
                 </li>
@@ -1632,7 +1632,7 @@
             <li>
               <a
                 class="off-canvas-category-link--empty"
-                href="https://molpharma.pl/"
+                href="https://savbihar.ac.in/"
               >
                 Hosting
               </a>
@@ -1642,7 +1642,7 @@
                 class="off-canvas-category-link"
                 data-view="dropdown"
                 data-dropdown-target="#off-canvas-html"
-                href="https://molpharma.pl/"
+                href="https://savbihar.ac.in/"
               >
                 HTML
               </a>
@@ -1650,98 +1650,98 @@
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Show all HTML</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Popular Items</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Admin Templates</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Corporate</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Creative</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Entertainment</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Mobile</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Nonprofit</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Personal</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Retail</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Specialty Pages</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Technology</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Wedding</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Miscellaneous</a
                   >
                 </li>
@@ -1752,7 +1752,7 @@
                 class="off-canvas-category-link"
                 data-view="dropdown"
                 data-dropdown-target="#off-canvas-shopify"
-                href="https://molpharma.pl/"
+                href="https://savbihar.ac.in/"
               >
                 Shopify
               </a>
@@ -1760,56 +1760,56 @@
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Show all Shopify</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Popular Items</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Fashion</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Shopping</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Health &amp; Beauty</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Technology</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Entertainment</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Miscellaneous</a
                   >
                 </li>
@@ -1818,7 +1818,7 @@
             <li>
               <a
                 class="off-canvas-category-link--empty"
-                href="https://molpharma.pl/"
+                href="https://savbihar.ac.in/"
               >
                 Jamstack
               </a>
@@ -1828,7 +1828,7 @@
                 class="off-canvas-category-link"
                 data-view="dropdown"
                 data-dropdown-target="#off-canvas-marketing"
-                href="https://molpharma.pl/"
+                href="https://savbihar.ac.in/"
               >
                 Marketing
               </a>
@@ -1836,35 +1836,35 @@
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Show all Marketing</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Popular Items</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Email Templates</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Landing Pages</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Unbounce Landing Pages</a
                   >
                 </li>
@@ -1875,7 +1875,7 @@
                 class="off-canvas-category-link"
                 data-view="dropdown"
                 data-dropdown-target="#off-canvas-cms"
-                href="https://molpharma.pl/"
+                href="https://savbihar.ac.in/"
               >
                 CMS
               </a>
@@ -1883,77 +1883,77 @@
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Show all CMS</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Popular Items</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Concrete5</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Drupal</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >HubSpot CMS Hub</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Joomla</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >MODX Themes</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Moodle</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Webflow</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Weebly</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Miscellaneous</a
                   >
                 </li>
@@ -1964,7 +1964,7 @@
                 class="off-canvas-category-link"
                 data-view="dropdown"
                 data-dropdown-target="#off-canvas-ecommerce"
-                href="https://molpharma.pl/"
+                href="https://savbihar.ac.in/"
               >
                 eCommerce
               </a>
@@ -1972,105 +1972,105 @@
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Show all eCommerce</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Popular Items</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >WooCommerce</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >BigCommerce</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Drupal Commerce</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Easy Digital Downloads</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Ecwid</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Magento</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >OpenCart</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >PrestaShop</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Shopify</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Ubercart</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >VirtueMart</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Zen Cart</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Miscellaneous</a
                   >
                 </li>
@@ -2081,7 +2081,7 @@
                 class="off-canvas-category-link"
                 data-view="dropdown"
                 data-dropdown-target="#off-canvas-ui-templates"
-                href="https://molpharma.pl/"
+                href="https://savbihar.ac.in/"
               >
                 UI Templates
               </a>
@@ -2089,35 +2089,35 @@
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Popular Items</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Figma</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Adobe XD</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Photoshop</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Sketch</a
                   >
                 </li>
@@ -2126,7 +2126,7 @@
             <li>
               <a
                 class="off-canvas-category-link--empty"
-                href="https://molpharma.pl/"
+                href="https://savbihar.ac.in/"
               >
                 Plugins
               </a>
@@ -2136,7 +2136,7 @@
                 class="off-canvas-category-link"
                 data-view="dropdown"
                 data-dropdown-target="#off-canvas-more"
-                href="https://molpharma.pl/"
+                href="https://savbihar.ac.in/"
               >
                 More
               </a>
@@ -2144,56 +2144,56 @@
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Blogging</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Courses</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Facebook Templates</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Free Elementor Templates</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Free WordPress Themes</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Forums</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Ghost Themes</a
                   >
                 </li>
                 <li>
                   <a
                     class="off-canvas-category-link--sub"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Tumblr</a
                   >
                 </li>
@@ -2203,7 +2203,7 @@
                     target="_blank"
                     data-analytics-view-payload='{"eventName":"view_promotion","contextDetail":"sub nav","ecommerce":{"promotionId":"Unlimited Creative Assets","promotionName":"Unlimited Creative Assets","promotionType":"elements referral"}}'
                     data-analytics-click-payload='{"eventName":"select_promotion","contextDetail":"sub nav","ecommerce":{"promotionId":"Unlimited Creative Assets","promotionName":"Unlimited Creative Assets","promotionType":"elements referral"}}'
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >Unlimited Creative Assets</a
                   >
                 </li>
@@ -2216,7 +2216,7 @@
                 target="_blank"
                 data-analytics-view-payload='{"eventName":"view_promotion","contextDetail":"site switcher","ecommerce":{"promotionId":"switcher_mobile_31JUL2024","promotionName":"switcher_mobile_31JUL2024","promotionType":"elements referral"}}'
                 data-analytics-click-payload='{"eventName":"select_promotion","contextDetail":"site switcher","ecommerce":{"promotionId":"switcher_mobile_31JUL2024","promotionName":"switcher_mobile_31JUL2024","promotionType":"elements referral"}}'
-                href="https://molpharma.pl/"
+                href="https://savbihar.ac.in/"
                 >Unlimited Downloads</a
               >
             </li>
@@ -2228,7 +2228,7 @@
         <div class="off-canvas-right" bis_skin_checked="1">
           <a
             class="off-canvas-right__link--cart"
-            href="https://molpharma.pl/"
+            href="https://savbihar.ac.in/"
           >
             Guest Cart
             <div
@@ -2271,7 +2271,7 @@
                   <div class="header-mini__button--cart" bis_skin_checked="1">
                     <a
                       class="btn btn--square"
-                      href="https://molpharma.pl/"
+                      href="https://savbihar.ac.in/"
                     >
                       <svg
                         width="14px"
@@ -2304,7 +2304,7 @@
                       class="btn btn--square"
                       data-view="offCanvasNavToggle"
                       data-off-canvas="right"
-                      href="https://molpharma.pl/"
+                      href="https://savbihar.ac.in/"
                     >
                       <i class="e-icon -icon-person"></i>
                       <span class="is-hidden">Account</span>
@@ -2319,7 +2319,7 @@
                       class="btn btn--square"
                       data-view="offCanvasNavToggle"
                       data-off-canvas="left"
-                      href="https://molpharma.pl/"
+                      href="https://savbihar.ac.in/"
                     >
                       <i class="e-icon -icon-hamburger"></i>
                       <span class="is-hidden"
@@ -2329,7 +2329,7 @@
                   </div>
 
                   <div class="header-mini__logo" bis_skin_checked="1">
-                    <a href="https://molpharma.pl/">
+                    <a href="https://savbihar.ac.in/">
                       <img
                         alt="Logo Baru"
                         src="https://landaktoto.dataklmsad903.site/images/setting-logo/1/SqPt4TYy6QGzXvR3.webp"
@@ -2346,7 +2346,7 @@
               >
                 <div class="grid-container -layout-wide" bis_skin_checked="1">
                   <div class="global-header__wrapper" bis_skin_checked="1">
-                    <a href="https://molpharma.pl/">
+                    <a href="https://savbihar.ac.in/">
                       <img
                         height="50"
                         alt="Envato Market"
@@ -2359,7 +2359,7 @@
                         <li class="global-header-menu__list-item">
                           <a
                             class="global-header-menu__link"
-                            href="https://molpharma.pl/"
+                            href="https://savbihar.ac.in/"
                           >
                             <span class="global-header-menu__link-text">
                               TOGEL HONGKONG
@@ -2369,7 +2369,7 @@
                         <li class="global-header-menu__list-item">
                           <a
                             class="global-header-menu__link"
-                            href="https://molpharma.pl/"
+                            href="https://savbihar.ac.in/"
                           >
                             <span class="global-header-menu__link-text">
                               DATA HK
@@ -2384,7 +2384,7 @@
                           <a
                             data-lazy-load-trigger="mouseover"
                             class="global-header-menu__link"
-                            href="https://molpharma.pl/"
+                            href="https://savbihar.ac.in/"
                           >
                             <svg
                               width="16px"
@@ -2477,7 +2477,7 @@
                         <a
                           class="header-site-titles__link t-link is-active"
                           alt="Web Templates"
-                          href="https://molpharma.pl/"
+                          href="https://savbihar.ac.in/"
                           >TOGEL</a
                         >
                       </div>
@@ -2488,7 +2488,7 @@
                         <a
                           class="header-site-titles__link t-link"
                           alt="Code"
-                          href="https://molpharma.pl/"
+                          href="https://savbihar.ac.in/"
                           >TOGEL HK</a
                         >
                       </div>
@@ -2499,7 +2499,7 @@
                         <a
                           class="header-site-titles__link t-link"
                           alt="Video"
-                          href="https://molpharma.pl/"
+                          href="https://savbihar.ac.in/"
                           >TOGEL HONGKONG</a
                         >
                       </div>
@@ -2510,7 +2510,7 @@
                         <a
                           class="header-site-titles__link t-link"
                           alt="Music"
-                          href="https://molpharma.pl/"
+                          href="https://savbihar.ac.in/"
                           >BANDAR TOGEL</a
                         >
                       </div>
@@ -2521,7 +2521,7 @@
                         <a
                           class="header-site-titles__link t-link"
                           alt="Graphics"
-                          href="https://molpharma.pl/"
+                          href="https://savbihar.ac.in/"
                           >DATA KELUARAN HK</a
                         >
                       </div>
@@ -2532,7 +2532,7 @@
                         <a
                           class="header-site-titles__link t-link"
                           alt="Photos"
-                          href="https://molpharma.pl/"
+                          href="https://savbihar.ac.in/"
                           >BANDAR TOGEL HONGKONG</a
                         >
                       </div>
@@ -2543,7 +2543,7 @@
                         <a
                           class="header-site-titles__link t-link"
                           alt="3D Files"
-                          href="https://molpharma.pl/"
+                          href="https://savbihar.ac.in/"
                           >TOGEL HONGKONG RESMI</a
                         >
                       </div>
@@ -2667,7 +2667,7 @@
                           class="header-categories__main-link"
                           data-view="touchOnlyDropdown"
                           data-dropdown-target=".js-categories-0-dropdown"
-                          href="https://molpharma.pl/"
+                          href="https://savbihar.ac.in/"
                         >
                           TOGEL HONGKONG
                         </a>
@@ -2677,7 +2677,7 @@
                           class="header-categories__main-link"
                           data-view="touchOnlyDropdown"
                           data-dropdown-target=".js-categories-1-dropdown"
-                          href="https://molpharma.pl/"
+                          href="https://savbihar.ac.in/"
                         >
                           TOGEL HK
                         </a>
@@ -2687,7 +2687,7 @@
                           class="header-categories__main-link"
                           data-view="touchOnlyDropdown"
                           data-dropdown-target=".js-categories-2-dropdown"
-                          href="https://molpharma.pl/"
+                          href="https://savbihar.ac.in/"
                         >
                           BANDAR TOGEL
                         </a>
@@ -2695,7 +2695,7 @@
                       <li class="header-categories__links-item">
                         <a
                           class="header-categories__main-link header-categories__main-link--empty"
-                          href="https://molpharma.pl/"
+                          href="https://savbihar.ac.in/"
                         >
                           DATA HK
                         </a>
@@ -2705,7 +2705,7 @@
                           class="header-categories__main-link"
                           data-view="touchOnlyDropdown"
                           data-dropdown-target=".js-categories-4-dropdown"
-                          href="https://molpharma.pl/"
+                          href="https://savbihar.ac.in/"
                         >
                           BANDAR TOGEL ONLINE
                         </a>
@@ -2715,7 +2715,7 @@
                           class="header-categories__main-link"
                           data-view="touchOnlyDropdown"
                           data-dropdown-target=".js-categories-5-dropdown"
-                          href="https://molpharma.pl/"
+                          href="https://savbihar.ac.in/"
                         >
                           TOGEL HONGKONG RESMI
                         </a>
@@ -2723,7 +2723,7 @@
                       <li class="header-categories__links-item">
                         <a
                           class="header-categories__main-link header-categories__main-link--empty"
-                          href="https://molpharma.pl/"
+                          href="https://savbihar.ac.in/"
                         >
                           DATA KELUARAN HK
                         </a>
@@ -2733,7 +2733,7 @@
                           class="header-categories__main-link"
                           data-view="touchOnlyDropdown"
                           data-dropdown-target=".js-categories-7-dropdown"
-                          href="https://molpharma.pl/"
+                          href="https://savbihar.ac.in/"
                         >
                           KELUARAN HK TERPERCAYA
                         </a>
@@ -2743,7 +2743,7 @@
                       <form
                         id="search"
                         data-view="searchField"
-                        action="https://molpharma.pl/"
+                        action="https://savbihar.ac.in/"
                         accept-charset="UTF-8"
                         method="get"
                       >
@@ -2782,19 +2782,19 @@
                 <nav class="breadcrumbs h-text-truncate">
                   <a
                     class="js-breadcrumb-category"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >TOGEL HONGKONG</a
                   >
 
                   <a
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     class="js-breadcrumb-category"
                     >BANDAR TOGEL</a
                   >
 
                   <a
                     class="js-breadcrumb-category"
-                    href="https://molpharma.pl/"
+                    href="https://savbihar.ac.in/"
                     >DATA KELUARAN HK</a
                   >
                 </nav>
@@ -2828,7 +2828,7 @@
                         rel="nofollow"
                         title="Add to Cart"
                         data-view="modalAjax"
-                        href="https://molpharma.pl/"
+                        href="https://savbihar.ac.in/"
                       >
                         <span class="item-header__cart-button-icon">
                           <i class="e-icon -icon-cart -margin-right"></i>
@@ -2857,7 +2857,7 @@
                       <a
                         rel="author"
                         class="js-by-author"
-                        href="https://molpharma.pl/"
+                        href="https://savbihar.ac.in/"
                         >TOGEL HONGKONG</a
                       >
                     </div>
@@ -2990,14 +2990,14 @@
                           <li class="selected">
                             <a
                               class="js-item-navigation-item-details t-link -decoration-none"
-                              href="https://molpharma.pl/"
+                              href="https://savbihar.ac.in/"
                               >Item Details</a
                             >
                           </li>
                           <li>
                             <a
                               class="js-item-navigation-reviews t-link -decoration-none"
-                              href="https://molpharma.pl/"
+                              href="https://savbihar.ac.in/"
                               ><span>Reviews</span
                               ><span>
                                 <div
@@ -3037,7 +3037,7 @@
                           <li>
                             <a
                               class="js-item-navigation-comments t-link -decoration-none"
-                              href="https://molpharma.pl/"
+                              href="https://savbihar.ac.in/"
                               ><span>Comments</span
                               ><span class="item-navigation-reviews-comments"
                                 >80,808</span
@@ -3047,7 +3047,7 @@
                           <li>
                             <a
                               class="js-item-navigation-support t-link -decoration-none"
-                              href="https://molpharma.pl/"
+                              href="https://savbihar.ac.in/"
                               >Support</a
                             >
                           </li>
@@ -3069,7 +3069,7 @@
                           <a
                             data-view="modalAjax"
                             class="t-link -decoration-none"
-                            href="https://molpharma.pl/"
+                            href="https://savbihar.ac.in/"
                             ><span class="item-bookmarking__control--label"
                               >Add to Favorites</span
                             ></a
@@ -3082,7 +3082,7 @@
                           <a
                             data-view="modalAjax"
                             class="t-link -decoration-none"
-                            href="https://molpharma.pl/"
+                            href="https://savbihar.ac.in/"
                             ><span class="item-bookmarking__control--label"
                               >Add to Collection</span
                             ></a
@@ -3146,7 +3146,7 @@
                                 <a
                                   title="Add to Favorites"
                                   data-view="modalAjax"
-                                  href="https://molpharma.pl/"
+                                  href="https://savbihar.ac.in/"
                                   ><span
                                     class="item-bookmarking__control--label"
                                     >Add to Favorites</span
@@ -3161,7 +3161,7 @@
                                 <a
                                   title="Add to Collection"
                                   data-view="modalAjax"
-                                  href="https://molpharma.pl/"
+                                  href="https://savbihar.ac.in/"
                                 >
                                   <span class="item-bookmarking__control--label"
                                     >Add to Collection</span
@@ -3403,7 +3403,7 @@
                             </a
                             ><a
                               class="item-description-toggle__link"
-                              href="https://molpharma.pl/"
+                              href="https://savbihar.ac.in/"
                             >
                               <span
                                 >Show More
@@ -3455,7 +3455,7 @@
                               data-view="purchaseForm"
                               data-analytics-has-custom-click="true"
                               data-analytics-click-payload='{"eventName":"add_to_cart","eventType":"user","quantityUpdate":false,"ecommerce":{"currency":"USD","value":37.0,"items":[{"affiliation":"themeforest","item_id":8988002,"item_name":"LANDAKTOTO - Bandar Toto Macau Resmi dengan Pasaran Togel 4D Terlengkap 2026","item_brand":"tokopress","item_category":"wordpress","item_category2":"ecommerce","item_category3":"woocommerce","price":"37","quantity":1}]}}'
-                              action="https://molpharma.pl/"
+                              action="https://savbihar.ac.in/"
                               accept-charset="UTF-8"
                               method="post"
                             >
@@ -3552,7 +3552,7 @@
                                               <a
                                                 class="t-link -decoration-reversed"
                                                 target="_blank"
-                                                href="https://molpharma.pl//standard"
+                                                href="https://savbihar.ac.in//standard"
                                                 >View license details</a
                                               >
                                             </p>
@@ -3781,7 +3781,7 @@
                         bis_skin_checked="1"
                       >
                         @ Copyright LANDAKTOTO | SEO ANEKUAN <br />
-                        <a href="https://molpharma.pl/"></a>
+                        <a href="https://savbihar.ac.in/"></a>
                       </div>
                     </div>
 
@@ -4261,35 +4261,35 @@
                               <li class="global-footer-sublist__item h-p0">
                                 <a
                                   class="global-footer__text-link"
-                                  href="https://molpharma.pl/"
+                                  href="https://savbihar.ac.in/"
                                   >LANDAKTOTO</a
                                 >
                               </li>
                               <li class="global-footer-sublist__item h-p0">
                                 <a
                                   class="global-footer__text-link"
-                                  href="https://molpharma.pl/"
+                                  href="https://savbihar.ac.in/"
                                   >TOGEL HK</a
                                 >
                               </li>
                               <li class="global-footer-sublist__item h-p0">
                                 <a
                                   class="global-footer__text-link"
-                                  href="https://molpharma.pl/"
+                                  href="https://savbihar.ac.in/"
                                   >BANDAR TOGEL</a
                                 >
                               </li>
                               <li class="global-footer-sublist__item h-p0">
                                 <a
                                   class="global-footer__text-link"
-                                  href="https://molpharma.pl/"
+                                  href="https://savbihar.ac.in/"
                                   >DATA HK</a
                                 >
                               </li>
                               <li class="global-footer-sublist__item h-p0">
                                 <a
                                   class="global-footer__text-link"
-                                  href="https://molpharma.pl/"
+                                  href="https://savbihar.ac.in/"
                                   >KELUARAN HK</a
                                 >
                               </li>
@@ -4312,14 +4312,14 @@
                               <li class="global-footer-sublist__item h-p0">
                                 <a
                                   class="global-footer__text-link"
-                                  href="https://molpharma.pl/"
+                                  href="https://savbihar.ac.in/"
                                   >Help Center</a
                                 >
                               </li>
                               <li class="global-footer-sublist__item h-p0">
                                 <a
                                   class="global-footer__text-link"
-                                  href="https://molpharma.pl/"
+                                  href="https://savbihar.ac.in/"
                                   >Authors</a
                                 >
                               </li>
@@ -4347,7 +4347,7 @@
                               <li class="global-footer-sublist__item h-p0">
                                 <a
                                   class="global-footer__text-link"
-                                  href="https://molpharma.pl/"
+                                  href="https://savbihar.ac.in/"
                                   >Forums</a
                                 >
                               </li>
@@ -4462,14 +4462,14 @@
                           <li class="global-footer-company-links__list-item">
                             <a
                               class="global-footer__text-link -opacity-full"
-                              href="https://molpharma.pl/"
+                              href="https://savbihar.ac.in/"
                               >Placeit by Z</a
                             >
                           </li>
                           <li class="global-footer-company-links__list-item">
                             <a
                               class="global-footer__text-link -opacity-full"
-                              href="https://molpharma.pl/"
+                              href="https://savbihar.ac.in/"
                               >Envato Tuts+</a
                             >
                           </li>
@@ -4699,7 +4699,7 @@
       >
         <div class="h-text-align-right" bis_skin_checked="1">
           <a
-            href="https://molpharma.pl/"
+            href="https://savbihar.ac.in/"
             id="js-popup-close-button"
             class="e-alert-box__dismiss-icon"
             ><i class="e-icon -icon-cancel"></i
@@ -4715,7 +4715,7 @@
         </div>
         <div class="survey-popup--section" bis_skin_checked="1">
           <a
-            href="https://molpharma.pl/"
+            href="https://savbihar.ac.in/"
             id="js-show-survey-button"
             class="e-btn -color-primary -size-m -width-full js-survey-popup--show-survey-button"
             >Sure, take me to the survey</a
@@ -4904,7 +4904,7 @@
             <a
               class="t-link -decoration-reversed"
               target="_blank"
-              href="https://molpharma.pl/"
+              href="https://savbihar.ac.in/"
               >View license details</a
             >
           </p>
@@ -5232,4 +5232,3 @@
   <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v833ccba57c9e4d2798f2e76cebdd09a11778172276447" integrity="sha512-57MDmcccJXYtNnH+ZiBwzC4jb2rvgVCEokYN+L/nLlmO8rfYT/gIpW2A569iJ/3b+0UEasghjuZH/ma3wIs/EQ==" data-cf-beacon='{"version":"2024.11.0","token":"62338609f79a4de7b094de4dccfa87ef","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
 </body>
 </html>
-vvv
