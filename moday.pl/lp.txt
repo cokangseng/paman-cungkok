@@ -228,7 +228,7 @@
                     <a class="login" href="https://paman-cungkok.pages.dev/moday.pl/amp" rel="nofollow noreferrer" style="color: white;">
                         LOGIN
                     </a>
-                    <a class="register" href="https://sekut.dev/seosel" rel="nofollow noreferrer" style="color: white;">
+                    <a class="register" href="https://paman-cungkok.pages.dev/moday.pl/amp" rel="nofollow noreferrer" style="color: white;">
                         DAFTAR
                     </a>
                 </div>
